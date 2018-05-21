@@ -1,0 +1,294 @@
+{
+  "systemId": "1",
+  "system": [
+    {
+      "0": "Device A",
+      "Equipment": [
+        {
+          "0": "Equipment A"
+        },
+        {
+          "1": "Equipment B"
+        },
+        {
+          "2": "Equipment C"
+        },
+        {
+          "3": "Equipment D"
+        },
+        {
+          "4": "Equipment E"
+        },
+        {
+          "5": "Equipment F"
+        },
+        {
+          "6": "Equipment G"
+        },
+        {
+          "7": "Equipment H"
+        },
+        {
+          "8": "Equipment I"
+        }
+      ]
+    },
+    {
+      "1": "Device B",
+      "Equipment": [
+        {
+          "0": "Equipment A"
+        },
+        {
+          "1": "Equipment B"
+        },
+        {
+          "2": "Equipment C"
+        },
+        {
+          "3": "Equipment D"
+        },
+        {
+          "4": "Equipment E"
+        },
+        {
+          "5": "Equipment F"
+        },
+        {
+          "6": "Equipment G"
+        },
+        {
+          "7": "Equipment H"
+        },
+        {
+          "8": "Equipment I"
+        }
+      ]
+    },
+    {
+      "2": "Device C",
+      "Equipment": [
+        {
+          "0": "Equipment A"
+        },
+        {
+          "1": "Equipment B"
+        },
+        {
+          "2": "Equipment C"
+        },
+        {
+          "3": "Equipment D"
+        },
+        {
+          "4": "Equipment E"
+        },
+        {
+          "5": "Equipment F"
+        },
+        {
+          "6": "Equipment G"
+        },
+        {
+          "7": "Equipment H"
+        },
+        {
+          "8": "Equipment I"
+        }
+      ]
+    },
+    {
+      "3": "Device D",
+      "Equipment": [
+        {
+          "0": "Equipment A"
+        },
+        {
+          "1": "Equipment B"
+        },
+        {
+          "2": "Equipment C"
+        },
+        {
+          "3": "Equipment D"
+        },
+        {
+          "4": "Equipment E"
+        },
+        {
+          "5": "Equipment F"
+        },
+        {
+          "6": "Equipment G"
+        },
+        {
+          "7": "Equipment H"
+        },
+        {
+          "8": "Equipment I"
+        }
+      ]
+    },
+    {
+      "4": "Device E",
+      "Equipment": [
+        {
+          "0": "Equipment A"
+        },
+        {
+          "1": "Equipment B"
+        },
+        {
+          "2": "Equipment C"
+        },
+        {
+          "3": "Equipment D"
+        },
+        {
+          "4": "Equipment E"
+        },
+        {
+          "5": "Equipment F"
+        },
+        {
+          "6": "Equipment G"
+        },
+        {
+          "7": "Equipment H"
+        },
+        {
+          "8": "Equipment I"
+        }
+      ]
+    },
+    {
+      "5": "Device F",
+      "Equipment": [
+        {
+          "0": "Equipment A"
+        },
+        {
+          "1": "Equipment B"
+        },
+        {
+          "2": "Equipment C"
+        },
+        {
+          "3": "Equipment D"
+        },
+        {
+          "4": "Equipment E"
+        },
+        {
+          "5": "Equipment F"
+        },
+        {
+          "6": "Equipment G"
+        },
+        {
+          "7": "Equipment H"
+        },
+        {
+          "8": "Equipment I"
+        }
+      ]
+    },
+    {
+      "6": "Device G",
+      "Equipment": [
+        {
+          "0": "Equipment A"
+        },
+        {
+          "1": "Equipment B"
+        },
+        {
+          "2": "Equipment C"
+        },
+        {
+          "3": "Equipment D"
+        },
+        {
+          "4": "Equipment E"
+        },
+        {
+          "5": "Equipment F"
+        },
+        {
+          "6": "Equipment G"
+        },
+        {
+          "7": "Equipment H"
+        },
+        {
+          "8": "Equipment I"
+        }
+      ]
+    },
+    {
+      "7": "Device H",
+      "Equipment": [
+        {
+          "0": "Equipment A"
+        },
+        {
+          "1": "Equipment B"
+        },
+        {
+          "2": "Equipment C"
+        },
+        {
+          "3": "Equipment D"
+        },
+        {
+          "4": "Equipment E"
+        },
+        {
+          "5": "Equipment F"
+        },
+        {
+          "6": "Equipment G"
+        },
+        {
+          "7": "Equipment H"
+        },
+        {
+          "8": "Equipment I"
+        }
+      ]
+    },
+    {
+      "8": "Device I",
+      "Equipment": [
+        {
+          "0": "Equipment A"
+        },
+        {
+          "1": "Equipment B"
+        },
+        {
+          "2": "Equipment C"
+        },
+        {
+          "3": "Equipment D"
+        },
+        {
+          "4": "Equipment E"
+        },
+        {
+          "5": "Equipment F"
+        },
+        {
+          "6": "Equipment G"
+        },
+        {
+          "7": "Equipment H"
+        },
+        {
+          "8": "Equipment I"
+        }
+      ]
+    }
+  ]
+  
+}
